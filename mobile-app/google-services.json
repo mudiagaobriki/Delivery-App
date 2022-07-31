@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1049402392974",
+    "firebase_url": "https://kelvin-eb83b-default-rtdb.firebaseio.com",
+    "project_id": "kelvin-eb83b",
+    "storage_bucket": "kelvin-eb83b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049402392974:android:6e9e5c7a5b97f909de64df",
+        "android_client_info": {
+          "package_name": "com.rikibren.helpplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049402392974-te8m4dr9ii6bglrcgvp9ha8uprf4lks7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKDAZcM5ZlJQrR6AnqvlNno9cLPut-6yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049402392974-te8m4dr9ii6bglrcgvp9ha8uprf4lks7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1049402392974-48teuq41lt9va5s9rjuj4n3b8uivolbu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rikibren.helpplus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

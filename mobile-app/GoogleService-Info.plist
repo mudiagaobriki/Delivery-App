@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1049402392974-48teuq41lt9va5s9rjuj4n3b8uivolbu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1049402392974-48teuq41lt9va5s9rjuj4n3b8uivolbu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCG9zpgDMwgMv6KFl73RD-HVMsUu0Au3Rs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1049402392974</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rikibren.helpplus</string>
+	<key>PROJECT_ID</key>
+	<string>kelvin-eb83b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kelvin-eb83b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1049402392974:ios:911256eda5470555de64df</string>
+	<key>DATABASE_URL</key>
+	<string>https://kelvin-eb83b-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

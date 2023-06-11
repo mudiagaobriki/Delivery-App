@@ -1,16 +1,15 @@
 {
     "app_name": "Help Plus",
-    "app_description": "Medical Emergency App",
-    "app_identifier": "com.rikibren.helpplus",
+    "app_description": "Sample Delivery App",
+    "app_identifier": "",
     "ios_app_version": "1.0.0",
     "android_app_version": 100,
-    "facebookAppId": "435759398362457",
-    "firebaseProjectId": "kelvin-eb83b",
+    "facebookAppId": "",
+    "firebaseProjectId": "",
     "googleApiKeys": {
-        "ios": "AIzaSyCA3sCYrTTSwnCwp6e0fOoicfnlzCT4G2c",
-        "android": "AIzaSyCA3sCYrTTSwnCwp6e0fOoicfnlzCT4G2c",
-        "web": "AIzaSyCA3sCYrTTSwnCwp6e0fOoicfnlzCT4G2c",
-        "server": "AIzaSyCA3sCYrTTSwnCwp6e0fOoicfnlzCT4G2c"
+        "ios": "",
+        "android": "",
+        "web": "",
+        "server": ""
     },
-    "CodeCanyon_Purchase_Code": "cd331166-4496-42d6-b1f4-5c7d3e5d810d"
 }
